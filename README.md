@@ -16,7 +16,6 @@ i)	# To find the maximum of marks using the list method sort.
 def max_marks(marks):
     marks.sort(reverse=True)
     return marks[0]
-
 ```
 
 ii)	# To find the maximum marks using the list method max().
@@ -33,14 +32,16 @@ def max_marks(marks):
         if(i>max):
             max=i
     return max        
-
 ```
 
 ## Output:
+Sort():
 ![image](https://github.com/Visalan-H/FindMaximum/assets/152077751/4a68897d-1d5e-477c-994a-666d74b5fa32)
 
+Inbuilt Max():
 ![image](https://github.com/Visalan-H/FindMaximum/assets/152077751/30334da7-7232-4b6c-9ee6-64afb3723cd0)
 
+User-defined Max():
 ![image](https://github.com/Visalan-H/FindMaximum/assets/152077751/c7a97df3-6026-4441-b176-f1c52768bee4)
 
 ## Result:
