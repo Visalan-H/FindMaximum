@@ -36,13 +36,13 @@ def max_marks(marks):
 
 ## Output:
 Sort():
-![image](https://github.com/Visalan-H/FindMaximum/assets/152077751/4a68897d-1d5e-477c-994a-666d74b5fa32)
+![alt text](image.png)
 
 Inbuilt Max():
-![image](https://github.com/Visalan-H/FindMaximum/assets/152077751/30334da7-7232-4b6c-9ee6-64afb3723cd0)
+![alt text](image-1.png)
 
 User-defined Max():
-![image](https://github.com/Visalan-H/FindMaximum/assets/152077751/c7a97df3-6026-4441-b176-f1c52768bee4)
+![alt text](image-2.png)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
